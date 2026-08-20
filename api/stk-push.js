@@ -36,7 +36,7 @@ module.exports = async (req, res) => {
         'Authorization': `Bearer ${PAYLOR_API_KEY}`
       },
       body: JSON.stringify({
-        phoneNumber: finalPhone,
+        phone: finalPhone,
         amount: Number(amount),
         reference: reference,
         channelId: channelId,
