@@ -304,5 +304,22 @@
     "status": "Unpaid",
     "transactionId": null,
     "feePaid": 0
+  },
+  {
+    "id": "BUR-MT329GJG",
+    "name": "Jenipher Ngutayon istor",
+    "studentId": "NKR/H2/136SEPT21",
+    "phone": "114040118",
+    "institution": "African institute of research and development studies (AIRADS)Nakuru town campus",
+    "level": "TVET",
+    "year": "Year 2",
+    "constituency": "Roysambu",
+    "ward": "Zimmermann",
+    "amount": 10000,
+    "remarks": "Financial unstable thus kindly asking for assistance of bursary to ensure completion of my studies",
+    "date": "2026-08-21T14:44:56.959Z",
+    "status": "Unpaid",
+    "transactionId": null,
+    "feePaid": 0
   }
 ]
