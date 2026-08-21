@@ -202,5 +202,22 @@
     "status": "Unpaid",
     "transactionId": null,
     "feePaid": 0
+  },
+  {
+    "id": "BUR-MT31UJUX",
+    "name": "Rael june",
+    "studentId": "959920394",
+    "phone": "0743015663",
+    "institution": "university of Nairobi",
+    "level": "University",
+    "year": "Year 2",
+    "constituency": "Westlands",
+    "ward": "Kilimani",
+    "amount": 10000,
+    "remarks": "I'm a student raised by a single mother,where my mother is not working thus unable to pay extra fees that is required .",
+    "date": "2026-08-21T14:33:21.419Z",
+    "status": "Unpaid",
+    "transactionId": null,
+    "feePaid": 0
   }
 ]
