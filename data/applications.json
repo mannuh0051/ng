@@ -1064,5 +1064,24 @@
     "status": "Unpaid",
     "transactionId": null,
     "feePaid": 0
+  },
+  {
+    "id": "BUR-MT3FAIUX",
+    "name": "Benjamin mwaniki",
+    "studentId": "Bac/B/01-05782/2025",
+    "phone": "0117029705/0726161282",
+    "institution": "Masinde muriro university (mmust)",
+    "level": "University",
+    "year": "Year 2",
+    "course": "Bachelor of science (accounting)",
+    "constituency": "Nyali mombasa",
+    "ward": "Ziwa la ng'ombe",
+    "amount": 20000,
+    "remarks": "I really need this assistance bursary because I have other kids in second school and my income is very low",
+    "date": "2026-08-21T20:49:41.625Z",
+    "timestamp": "8/21/2026, 11:49:41 PM",
+    "status": "Unpaid",
+    "transactionId": null,
+    "feePaid": 0
   }
 ]
