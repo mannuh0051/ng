@@ -1100,5 +1100,22 @@
     "status": "Unpaid",
     "transactionId": null,
     "feePaid": 0
+  },
+  {
+    "id": "BUR-MT3FHXWW",
+    "name": "Dancan moseti",
+    "studentId": "28272",
+    "phone": "0710755924",
+    "institution": "Kenyatta University",
+    "level": "University",
+    "year": "Year 3",
+    "constituency": "Kasarani",
+    "ward": "Kasarani",
+    "amount": 10000,
+    "remarks": "",
+    "date": "2026-08-21T20:55:27.728Z",
+    "status": "Unpaid",
+    "transactionId": null,
+    "feePaid": 0
   }
 ]
