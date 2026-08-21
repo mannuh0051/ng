@@ -406,5 +406,22 @@
     "status": "Unpaid",
     "transactionId": null,
     "feePaid": 0
+  },
+  {
+    "id": "BUR-MT32OSFF",
+    "name": "Mitchell njeri Nduta",
+    "studentId": "ADM 3529",
+    "phone": "0111388882",
+    "institution": "MAAI MAHIU GIRLS -NAIVASHA",
+    "level": "Secondary",
+    "year": "Form 3",
+    "constituency": "Dagoretti North",
+    "ward": "",
+    "amount": 10000,
+    "remarks": "Am a single and unemployed .depends on vibarua. I hv girl twins both in sec school.would be glad if I get this bursary to help them continue with their studies",
+    "date": "2026-08-21T14:56:52.204Z",
+    "status": "Unpaid",
+    "transactionId": null,
+    "feePaid": 0
   }
 ]
