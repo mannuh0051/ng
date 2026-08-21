@@ -491,5 +491,22 @@
     "status": "Unpaid",
     "transactionId": null,
     "feePaid": 0
+  },
+  {
+    "id": "BUR-MT3300N4",
+    "name": "Maxwell",
+    "studentId": "113",
+    "phone": "0789402692",
+    "institution": "Mathare secondary",
+    "level": "Secondary",
+    "year": "Form 1",
+    "constituency": "Kasarani",
+    "ward": "Kilimani",
+    "amount": 5000,
+    "remarks": "",
+    "date": "2026-08-21T15:05:36.064Z",
+    "status": "Unpaid",
+    "transactionId": null,
+    "feePaid": 0
   }
 ]
