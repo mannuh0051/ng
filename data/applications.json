@@ -270,5 +270,22 @@
     "status": "Unpaid",
     "transactionId": null,
     "feePaid": 0
+  },
+  {
+    "id": "BUR-MT325VFB",
+    "name": "Qabal Boru Tarri",
+    "studentId": "61662",
+    "phone": "0741379160",
+    "institution": "Kenya coast national polytechnic",
+    "level": "TVET",
+    "year": "Year 3",
+    "constituency": "Makadara",
+    "ward": "",
+    "amount": 20000,
+    "remarks": "I need this bursary because am from humble background raised by single mother",
+    "date": "2026-08-21T14:42:09.631Z",
+    "status": "Unpaid",
+    "transactionId": null,
+    "feePaid": 0
   }
 ]
