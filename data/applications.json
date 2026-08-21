@@ -440,5 +440,22 @@
     "status": "Unpaid",
     "transactionId": null,
     "feePaid": 0
+  },
+  {
+    "id": "BUR-MT32YXTG",
+    "name": "STANELY NAROO",
+    "studentId": "BE208/5133/2025",
+    "phone": "0700217269",
+    "institution": "MURANG'A UNIVERSITY OF TECHNOLOGY",
+    "level": "University",
+    "year": "Year 2",
+    "constituency": "Langata",
+    "ward": "Nairobi West",
+    "amount": 20000,
+    "remarks": "To cater for my fees balance so that I can continue to study",
+    "date": "2026-08-21T15:04:45.748Z",
+    "status": "Unpaid",
+    "transactionId": null,
+    "feePaid": 0
   }
 ]
