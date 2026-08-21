@@ -746,5 +746,22 @@
     "status": "Unpaid",
     "transactionId": null,
     "feePaid": 0
+  },
+  {
+    "id": "BUR-MT3CWPM3",
+    "name": "Emmanuel FADHIlI",
+    "studentId": "994996226",
+    "phone": "0741011907",
+    "institution": "College",
+    "level": "TVET",
+    "year": "Year 1",
+    "constituency": "Kasarani",
+    "ward": "Njiru",
+    "amount": 20000,
+    "remarks": "School fee for my education",
+    "date": "2026-08-21T19:42:57.964Z",
+    "status": "Unpaid",
+    "transactionId": null,
+    "feePaid": 0
   }
 ]
