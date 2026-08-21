@@ -712,5 +712,22 @@
     "status": "Unpaid",
     "transactionId": null,
     "feePaid": 0
+  },
+  {
+    "id": "BUR-MT3CAPA9",
+    "name": "Abdimalik Mohamed",
+    "studentId": "41431950",
+    "phone": "0745189616",
+    "institution": "Mandera technical training institute",
+    "level": "TVET",
+    "year": "Year 1",
+    "constituency": "Embakasi East",
+    "ward": "Syokimau",
+    "amount": 10000,
+    "remarks": "",
+    "date": "2026-08-21T19:25:51.111Z",
+    "status": "Unpaid",
+    "transactionId": null,
+    "feePaid": 0
   }
 ]
