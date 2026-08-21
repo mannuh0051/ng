@@ -338,5 +338,22 @@
     "status": "Unpaid",
     "transactionId": null,
     "feePaid": 0
+  },
+  {
+    "id": "BUR-MT32F6FM",
+    "name": "Maureen Alusa",
+    "studentId": "37890901",
+    "phone": "0768183983",
+    "institution": "Primary",
+    "level": "Secondary",
+    "year": "Year 4",
+    "constituency": "Westlands",
+    "ward": "Kilimani",
+    "amount": 5000,
+    "remarks": "",
+    "date": "2026-08-21T14:49:23.796Z",
+    "status": "Unpaid",
+    "transactionId": null,
+    "feePaid": 0
   }
 ]
