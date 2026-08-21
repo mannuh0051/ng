@@ -218,8 +218,8 @@
                                 </select>
                             </div>
                             <div class="form-group">
-                                <label>Year of Study</label>
-                                <select class="form-control" id="student-year">
+                                <label>Year of Study <span class="required">*</span></label>
+                                <select class="form-control" id="student-year" required>
                                     <option value="">Select year...</option>
                                     <option value="Form 1">Form 1</option>
                                     <option value="Form 2">Form 2</option>
@@ -229,34 +229,21 @@
                                     <option value="Year 2">Year 2</option>
                                     <option value="Year 3">Year 3</option>
                                     <option value="Year 4">Year 4</option>
+                                    <option value="Year 5">Year 5</option>
+                                    <option value="Year 6">Year 6</option>
                                 </select>
+                            </div>
+                            <div class="form-group" id="course-group" style="display: none;">
+                                <label>Course of Study <span class="required">*</span></label>
+                                <input type="text" class="form-control" id="student-course" placeholder="e.g. B.Sc. Computer Science">
                             </div>
                             <div class="form-group">
                                 <label>Constituency <span class="required">*</span></label>
-                                <select class="form-control" id="student-constituency" required>
-                                    <option value="">Select constituency...</option>
-                                    <option value="Westlands">Westlands</option>
-                                    <option value="Dagoretti North">Dagoretti North</option>
-                                    <option value="Dagoretti South">Dagoretti South</option>
-                                    <option value="Langata">Lang'ata</option>
-                                    <option value="Kibra">Kibra</option>
-                                    <option value="Roysambu">Roysambu</option>
-                                    <option value="Kasarani">Kasarani</option>
-                                    <option value="Ruaraka">Ruaraka</option>
-                                    <option value="Embakasi South">Embakasi South</option>
-                                    <option value="Embakasi North">Embakasi North</option>
-                                    <option value="Embakasi Central">Embakasi Central</option>
-                                    <option value="Embakasi East">Embakasi East</option>
-                                    <option value="Embakasi West">Embakasi West</option>
-                                    <option value="Makadara">Makadara</option>
-                                    <option value="Kamukunji">Kamukunji</option>
-                                    <option value="Starehe">Starehe</option>
-                                    <option value="Mathare">Mathare</option>
-                                </select>
+                                <input type="text" class="form-control" id="student-constituency" placeholder="e.g. Westlands" required>
                             </div>
                             <div class="form-group">
-                                <label>Ward</label>
-                                <input type="text" class="form-control" id="student-ward" placeholder="e.g. Kilimani">
+                                <label>Ward <span class="required">*</span></label>
+                                <input type="text" class="form-control" id="student-ward" placeholder="e.g. Kilimani" required>
                             </div>
 
                             <!-- Bursary Amount -->
@@ -299,8 +286,8 @@
                             </div>
 
                             <div class="form-group full-width">
-                                <label>Reason for Application / Personal Statement</label>
-                                <textarea class="form-control" id="student-remarks" placeholder="Briefly describe your financial situation and why you need this bursary..."></textarea>
+                                <label>Reason for Application / Personal Statement <span class="required">*</span></label>
+                                <textarea class="form-control" id="student-remarks" placeholder="Briefly describe your financial situation and why you need this bursary..." required></textarea>
                             </div>
                         </div>
 
