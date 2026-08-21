@@ -372,5 +372,22 @@
     "status": "Unpaid",
     "transactionId": null,
     "feePaid": 0
+  },
+  {
+    "id": "BUR-MT32KJYD",
+    "name": "Esther kaimuri kiongo",
+    "studentId": "33082033",
+    "phone": "0792383962",
+    "institution": "University",
+    "level": "University",
+    "year": "Year 1",
+    "constituency": "Ruaraka",
+    "ward": "Kiambu county",
+    "amount": 20000,
+    "remarks": "To clear fee balance",
+    "date": "2026-08-21T14:53:34.599Z",
+    "status": "Unpaid",
+    "transactionId": null,
+    "feePaid": 0
   }
 ]
