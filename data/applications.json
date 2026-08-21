@@ -66,5 +66,22 @@
     "status": "Unpaid",
     "transactionId": null,
     "feePaid": 0
+  },
+  {
+    "id": "BUR-MT313G1Z",
+    "name": "Juma Diana Nafula",
+    "studentId": "IT-DICT/27769/21",
+    "phone": "0724996061",
+    "institution": "Kitale National polytechnic",
+    "level": "TVET",
+    "year": "Year 3",
+    "constituency": "Mathare",
+    "ward": "Kilimani",
+    "amount": 10000,
+    "remarks": "To sit for my last year exams",
+    "date": "2026-08-21T14:12:16.775Z",
+    "status": "Unpaid",
+    "transactionId": null,
+    "feePaid": 0
   }
 ]
