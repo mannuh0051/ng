@@ -780,5 +780,24 @@
     "status": "Unpaid",
     "transactionId": null,
     "feePaid": 0
+  },
+  {
+    "id": "BUR-MT3DB1LM",
+    "name": "Diid Boru Gedho",
+    "studentId": "32654000",
+    "phone": "0703885447",
+    "institution": "Secondary",
+    "level": "Secondary",
+    "year": "Form 4",
+    "course": "",
+    "constituency": "Saku",
+    "ward": "Sangante Jaldesa ward",
+    "amount": 5000,
+    "remarks": "School fees",
+    "date": "2026-08-21T19:54:06.687Z",
+    "timestamp": "8/21/2026, 10:54:06 PM",
+    "status": "Unpaid",
+    "transactionId": null,
+    "feePaid": 0
   }
 ]
