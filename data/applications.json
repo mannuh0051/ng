@@ -253,5 +253,22 @@
     "status": "Unpaid",
     "transactionId": null,
     "feePaid": 0
+  },
+  {
+    "id": "BUR-MT322XB1",
+    "name": "Alice Kakua mbula",
+    "studentId": "Adm 2024/4854",
+    "phone": "0714863562",
+    "institution": "Maliku girls secondary school",
+    "level": "Secondary",
+    "year": "Year 3",
+    "constituency": "Embakasi South",
+    "ward": "Viwandani",
+    "amount": 15000,
+    "remarks": "",
+    "date": "2026-08-21T14:39:52.099Z",
+    "status": "Unpaid",
+    "transactionId": null,
+    "feePaid": 0
   }
 ]
