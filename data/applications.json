@@ -1117,5 +1117,24 @@
     "status": "Unpaid",
     "transactionId": null,
     "feePaid": 0
+  },
+  {
+    "id": "BUR-MT3HTYPB",
+    "name": "Olang Calvin Railla",
+    "studentId": "445002892",
+    "phone": "0116854561",
+    "institution": "Karasani",
+    "level": "TVET",
+    "year": "Year 1",
+    "course": "Civil engineering",
+    "constituency": "Embakasi west",
+    "ward": "Umoja 1",
+    "amount": 20000,
+    "remarks": "I am applying for this bursary because I need financial support to continue my education. My family is currently facing financial challenges, and meeting school expenses has become difficult. This bursary would greatly help me pay for my education and allow me to focus on my studies without worrying too much about finances. I would be truly grateful for the opportunity and support. 🙏🏽",
+    "date": "2026-08-21T22:00:47.857Z",
+    "timestamp": "8/22/2026, 1:00:47 AM",
+    "status": "Unpaid",
+    "transactionId": null,
+    "feePaid": 0
   }
 ]
