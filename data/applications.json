@@ -508,5 +508,22 @@
     "status": "Unpaid",
     "transactionId": null,
     "feePaid": 0
+  },
+  {
+    "id": "BUR-MT33DZO2",
+    "name": "Esther Anyango",
+    "studentId": "810171064",
+    "phone": "0716724223",
+    "institution": "Kabete national polytechnic",
+    "level": "TVET",
+    "year": "Year 2",
+    "constituency": "Westlands",
+    "ward": "Westlands",
+    "amount": 20000,
+    "remarks": "I have alot of school fees arrears and our family breadwinner was released from his job",
+    "date": "2026-08-21T15:16:27.987Z",
+    "status": "Unpaid",
+    "transactionId": null,
+    "feePaid": 0
   }
 ]
