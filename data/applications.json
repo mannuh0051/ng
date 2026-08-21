@@ -185,5 +185,22 @@
     "status": "Unpaid",
     "transactionId": null,
     "feePaid": 0
+  },
+  {
+    "id": "BUR-MT31Q2RW",
+    "name": "Cynthia Kwamboka",
+    "studentId": "42536403",
+    "phone": "0722606908",
+    "institution": "Masinde muliro university",
+    "level": "University",
+    "year": "Form 1",
+    "constituency": "Kibra",
+    "ward": "Kibra",
+    "amount": 20000,
+    "remarks": "",
+    "date": "2026-08-21T14:29:52.653Z",
+    "status": "Unpaid",
+    "transactionId": null,
+    "feePaid": 0
   }
 ]
