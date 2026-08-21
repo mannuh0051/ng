@@ -937,5 +937,24 @@
     "status": "Unpaid",
     "transactionId": null,
     "feePaid": 0
+  },
+  {
+    "id": "BUR-MT3E087H",
+    "name": "Janet bii Janbii",
+    "studentId": "+10790425763",
+    "phone": "0790425763",
+    "institution": "St kizito vtc litein",
+    "level": "TVET",
+    "year": "Year 2",
+    "course": "Hairdressing",
+    "constituency": "Chemoiben",
+    "ward": "Kapkatet",
+    "amount": 20000,
+    "remarks": "School fees",
+    "date": "2026-08-21T20:13:41.646Z",
+    "timestamp": "8/21/2026, 11:13:41 PM",
+    "status": "Unpaid",
+    "transactionId": null,
+    "feePaid": 0
   }
 ]
