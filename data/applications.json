@@ -168,5 +168,22 @@
     "status": "Unpaid",
     "transactionId": null,
     "feePaid": 0
+  },
+  {
+    "id": "BUR-MT31PRW3",
+    "name": "Ouma vincent",
+    "studentId": "476876364",
+    "phone": "0768287487",
+    "institution": "University of nairobi",
+    "level": "University",
+    "year": "Year 1",
+    "constituency": "Westlands",
+    "ward": "Kikuyu ward",
+    "amount": 20000,
+    "remarks": "For school fees payment, and little money",
+    "date": "2026-08-21T14:29:38.551Z",
+    "status": "Unpaid",
+    "transactionId": null,
+    "feePaid": 0
   }
 ]
