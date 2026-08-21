@@ -423,5 +423,22 @@
     "status": "Unpaid",
     "transactionId": null,
     "feePaid": 0
+  },
+  {
+    "id": "BUR-MT32TZH4",
+    "name": "Lucy Wangari wanyanga",
+    "studentId": "D/HEC/26039/038",
+    "phone": "0712364392",
+    "institution": "KMTC Makueni Campus",
+    "level": "TVET",
+    "year": "Year 2",
+    "constituency": "Kibra",
+    "ward": "Makina",
+    "amount": 20000,
+    "remarks": "I am raised by a single mother who works as a domestic worker .Her income is small and inconsistent,and it is barely enough to cover rent , food and basic needs for our family.paying school fee become very difficult and we currently have fee balance.l am requesting this bursary so I can continue with my education without interruption.i am committed to my studies and l will work hard to make good use of this opportunity. Thank you.",
+    "date": "2026-08-21T15:00:54.618Z",
+    "status": "Unpaid",
+    "transactionId": null,
+    "feePaid": 0
   }
 ]
