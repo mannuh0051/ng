@@ -1246,5 +1246,24 @@
     "status": "Unpaid",
     "transactionId": null,
     "feePaid": 0
+  },
+  {
+    "id": "BUR-MT406TJY",
+    "name": "Elisha kitsao said",
+    "studentId": "244911651",
+    "phone": "0715766217",
+    "institution": "Kenya medical training college",
+    "level": "TVET",
+    "year": "Year 2",
+    "course": "Diploma of clinical medicine and surgery",
+    "constituency": "Msambweni",
+    "ward": "Lunga Lunga",
+    "amount": 5000,
+    "remarks": "I don't have fees to pay my school fees \nI came from poor background and I'm the one paying my fees",
+    "date": "2026-08-22T06:34:40.798Z",
+    "timestamp": "22/08/2026, 09:34:40",
+    "status": "Unpaid",
+    "transactionId": null,
+    "feePaid": 0
   }
 ]
