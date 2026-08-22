@@ -1265,5 +1265,24 @@
     "status": "Unpaid",
     "transactionId": null,
     "feePaid": 0
+  },
+  {
+    "id": "BUR-MT40SCK7",
+    "name": "Mahamed Abdullahi mohamed",
+    "studentId": "9194",
+    "phone": "0112033590",
+    "institution": "Wajir high school",
+    "level": "Secondary",
+    "year": "Form 3",
+    "course": "",
+    "constituency": "Wajir East",
+    "ward": "Township",
+    "amount": 20000,
+    "remarks": "I came from vulnerable family. my father is a tailor and he is not able to clear my school fees",
+    "date": "2026-08-22T06:51:25.216Z",
+    "timestamp": "22/08/2026, 09:51:25",
+    "status": "Unpaid",
+    "transactionId": null,
+    "feePaid": 0
   }
 ]
